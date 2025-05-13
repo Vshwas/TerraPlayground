@@ -1,0 +1,24 @@
+what is terraform ?
+Terraform is an open-source Infrastructure as Code (IaC) tool developed by HashiCorp. It allows you to define, provision, and manage infrastructure using a high-level configuration language called HashiCorp Configuration Language (HCL).
+
+✅ Key Features of Terraform:
+
+    Declarative Language: Define what the infrastructure should look like, and Terraform will handle the provisioning.
+
+    Provider Support: Integrates with cloud providers like Azure, AWS, GCP, and many others.
+
+    State Management: Maintains a state file to track infrastructure changes.
+
+    Execution Plan: Shows what actions will be taken before applying changes.
+
+    Resource Graph: Creates a dependency graph to determine the optimal execution order.
+
+    Modules: Reusable, self-contained configurations that can be shared and managed.
+
+✅  Use Cases:
+
+    Provisioning VMs, networks, and storage in Azure.
+
+    Deploying managed databases, Kubernetes clusters, and serverless functions.
+
+    Automating infrastructure scaling and modifications.
