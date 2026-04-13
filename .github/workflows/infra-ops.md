@@ -3,9 +3,7 @@ description: Report an issue related to Infrastructure of your application.
 title: "[Infra] "
 labels: ["Infra", "queries"]
 assignees:
-  - use1
-  - use2
-  - use3
+  - vshwas
 body:
   - type: dropdown
     id: priority
